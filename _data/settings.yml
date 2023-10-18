@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Téophane Patel
+title: Test
 description: Thinker // Designer // YouTuber
-email: patel.t@pm.me
+email: test@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
@@ -39,7 +39,8 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Je suis passionné par la nature** et les différentes formes de vie qu'on y trouve. Je m'intéresse particulièrement aux fourmis. Elles jouent un rôle si important dans de nombreux écosystèmes et le font souvent sans être remarquées.
+  Test
+# THIS IS WHAT I HAD PUT BEFORE  **Je suis passionné par la nature** et les différentes formes de vie qu'on y trouve. Je m'intéresse particulièrement aux fourmis. Elles jouent un rôle si important dans de nombreux écosystèmes et le font souvent sans être remarquées.
 
 
 skills:
